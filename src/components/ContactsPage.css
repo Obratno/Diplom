@@ -1,0 +1,83 @@
+.contacts-page {
+	max-width: 900px;
+	margin: 40px auto 0 auto;
+	padding: 40px 32px 32px 32px;
+	border: 1px solid #ffffff;
+}
+
+.contacts-title {
+	text-align: center;
+	font-size: 32px;
+	font-weight: 400;
+	margin-bottom: 32px;
+	letter-spacing: 1px;
+}
+
+.contacts-block {
+	display: flex;
+	gap: 24px;
+	margin-bottom: 24px;
+}
+
+.contacts-info {
+	flex: 1;
+	border: 1px solid #e0e0e0;
+	padding: 24px;
+	font-size: 16px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	background-color: #79797958;
+}
+
+.contacts-row {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 8px;
+}
+
+.contacts-info hr {
+	margin: 12px 0;
+	border: none;
+	border-top: 1px solid #aaa;
+}
+
+.contacts-info a {
+	color: #ffffff;
+	text-decoration: underline;
+	word-break: break-all;
+}
+
+.contacts-map {
+	flex: 1;
+	min-width: 320px;
+	min-height: 260px;
+	border: 1px solid #aaa;
+	background: #eee;
+}
+
+.contacts-feedback {
+	width: 100%;
+	min-height: 80px;
+	margin: 16px 0;
+	padding: 12px;
+	font-size: 16px;
+	border: 1px solid #aaa;
+	resize: vertical;
+	box-sizing: border-box;
+}
+
+.contacts-submit {
+	display: block;
+	margin-left: auto;
+	padding: 8px 32px;
+	font-size: 16px;
+	border: 1px solid #222;
+	background: #f8f8f8;
+	cursor: pointer;
+	transition: background 0.2s;
+}
+
+.contacts-submit:hover {
+	background: #e0e0e0;
+}

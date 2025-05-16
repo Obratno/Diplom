@@ -1,0 +1,71 @@
+/* Общий контейнер */
+.menu-container {
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+	border: 1px solid white;
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 40px 32px;
+}
+
+/* Заголовок */
+.menu-title {
+	font-size: 32px;
+	font-weight: lighter;
+	text-align: center;
+	margin-bottom: 32px;
+	letter-spacing: 1px;
+}
+
+/* Заголовок раздела */
+.menu-section-title {
+	font-size: 28px;
+	font-weight: 500;
+	margin-bottom: 24px;
+}
+
+/* Карточка блюда */
+.menu-item {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	background: #8f8e8e74;
+	margin-bottom: 24px;
+	padding: 20px 24px;
+	transition: box-shadow 0.2s;
+}
+
+.menu-item:hover {
+	box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Текстовая часть */
+.menu-item-info {
+	flex: 1;
+	margin-right: 24px;
+}
+
+.menu-item-title {
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+.menu-item-desc {
+	color: #dcdcdc;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+
+.menu-item-price {
+	color: #ffffff;
+	font-size: 15px;
+	font-weight: 500;
+}
+
+/* Картинка */
+.menu-item-img {
+	width: 211px;
+	height: 119px;
+	object-fit: cover;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Diplom/static/css/main.cfa2f9db.css",
+    "main.js": "/Diplom/static/js/main.d9690791.js",
+    "static/media/gribnoi.jpg": "/Diplom/static/media/gribnoi.92e5ecafb098448f8b1b.jpg",
+    "static/media/boloniese.jpg": "/Diplom/static/media/boloniese.b160535f5d5aec92553f.jpg",
+    "static/media/back.jpg": "/Diplom/static/media/back.82561904b3d21fd0f894.jpg",
+    "static/media/tuna.jpg": "/Diplom/static/media/tuna.da6f9215372d5d0a7d14.jpg",
+    "static/media/lapsha.jpg": "/Diplom/static/media/lapsha.345200cce2ce6fd264d8.jpg",
+    "static/media/rest1.jpg": "/Diplom/static/media/rest1.f468a78d112a039ada37.jpg",
+    "static/media/shpinatom.jpg": "/Diplom/static/media/shpinatom.c634d3ece31f87596597.jpg",
+    "static/media/greek.jpg": "/Diplom/static/media/greek.51b6c4c33434a3c99eef.jpg",
+    "static/media/soupTikva.jpeg": "/Diplom/static/media/soupTikva.694f43f4573bd118c538.jpeg",
+    "static/media/beet.jpg": "/Diplom/static/media/beet.5b5b39f2a2911a564e2d.jpg",
+    "static/media/ministrone.jpg": "/Diplom/static/media/ministrone.d713b3e8c08b32cc6b25.jpg",
+    "static/media/tomatniy.jpeg": "/Diplom/static/media/tomatniy.f297c1f4d6fef2b5c5fb.jpeg",
+    "static/media/rest2.jpeg": "/Diplom/static/media/rest2.e11ee431e9052356fc94.jpeg",
+    "static/media/karbonara.jpg": "/Diplom/static/media/karbonara.87e45c6213c8edde3114.jpg",
+    "static/media/rest3.jpg": "/Diplom/static/media/rest3.87e45c6213c8edde3114.jpg",
+    "static/media/gribami.jpeg": "/Diplom/static/media/gribami.16006c07b019fd2bac98.jpeg",
+    "static/media/pesto.jpg": "/Diplom/static/media/pesto.ff45fcb68014054524d3.jpg",
+    "static/media/caprese.jpeg": "/Diplom/static/media/caprese.4e927742b6efdee70685.jpeg",
+    "index.html": "/Diplom/index.html",
+    "main.cfa2f9db.css.map": "/Diplom/static/css/main.cfa2f9db.css.map",
+    "main.d9690791.js.map": "/Diplom/static/js/main.d9690791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa2f9db.css",
+    "static/js/main.d9690791.js"
+  ]
+}

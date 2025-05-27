@@ -202,7 +202,7 @@ export default function Main() {
 								<div className="leftColumn">
 									<div className="formField">
 										<label htmlFor="fullName">
-											Имя фамилия
+											Фамилия имя
 										</label>
 										<input
 											type="text"

@@ -29,7 +29,7 @@ body {
 }
 
 .content {
-	background-color: rgba(88, 87, 87, 0.285);
+	background-color: rgba(88, 87, 87, 0.497);
 }
 
 /* ===========================
@@ -116,6 +116,34 @@ header .nav a {
 	padding: 20px;
 }
 
+@media (max-width: 768px) {
+	.aboutRestoran {
+		flex-direction: column;
+		gap: 20px;
+		padding: 10px;
+	}
+
+	.pictureRest {
+		align-items: center;
+	}
+
+	.pic1 {
+		width: 100%;
+		height: auto;
+	}
+
+	.smallPics {
+		justify-content: center;
+		gap: 15px;
+	}
+
+	.pic2,
+	.pic3 {
+		width: 45%;
+		height: auto;
+	}
+}
+
 .headAbout {
 	font-size: 32px;
 	font-weight: lighter;
@@ -174,22 +202,24 @@ button:hover {
 
 .menuWrapper {
 	display: flex;
-	gap: 40px;
-	align-items: flex-start;
-	justify-content: center; /* Центрируем всю группу по горизонтали */
+	gap: 20px;
+	/* align-items: flex-start; */
+	justify-content: center;
+	/* max-width: 980px;
+	margin: 0 auto;
+	padding: 0 20px; */
 	flex-wrap: wrap;
-	max-width: 980px;
-	margin: 0 auto; /* Центрируем контейнер */
-	padding: 0 20px; /* Внутренние отступы, чтобы блоки не прилипали к краям */
 }
 
 .leftColumn,
 .rightColumn {
-	display: flex;
+	/* display: flex;
 	flex-direction: column;
 	gap: 30px;
 	width: 452px;
-	box-sizing: border-box;
+	box-sizing: border-box; */
+	flex: 1 1 100%;
+	max-width: 480px;
 }
 
 /* ===========================
@@ -199,7 +229,7 @@ button:hover {
 .special,
 .pastaMenu,
 .saladsMenu {
-	background-color: rgba(102, 102, 102, 0.27);
+	background-color: rgba(0, 0, 0, 0.621);
 	padding: 32px 25px 20px 25px;
 	box-sizing: border-box;
 	border: 1px solid white;
@@ -285,6 +315,12 @@ button:hover {
 	text-align: center;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
 .btnViewMenu:hover {
 	background-color: #5a5a5a;
 }
@@ -320,6 +356,13 @@ button:hover {
 	margin-bottom: 40px;
 }
 
+@media (max-width: 768px) {
+	.formRow {
+		flex-direction: column;
+		gap: 20px;
+	}
+}
+
 .leftColumn,
 .rightColumn {
 	flex: 1;
@@ -337,6 +380,11 @@ button:hover {
 	font-size: 16px;
 	font-weight: 400;
 	margin-bottom: 8px;
+}
+
+.formField input {
+	padding: 10px;
+	font-size: 18px;
 }
 
 .formField input[type="text"],
@@ -363,11 +411,12 @@ button:hover {
 	background-color: #79797958;
 	color: #fff;
 	border: 1px solid white;
-	padding: 14px 42px;
+	padding: 15px;
 	font-size: 18px;
 	font-family: "Jura", sans-serif;
 	cursor: pointer;
 	transition: background 0.2s;
+	width: 100%;
 }
 
 .btnReserve:hover {

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b17fb511.css",
+    "main.js": "/react-gh-pages/static/js/main.cda66062.js",
+    "static/media/gribnoi.jpg": "/react-gh-pages/static/media/gribnoi.92e5ecafb098448f8b1b.jpg",
+    "static/media/boloniese.jpg": "/react-gh-pages/static/media/boloniese.b160535f5d5aec92553f.jpg",
+    "static/media/back.jpg": "/react-gh-pages/static/media/back.82561904b3d21fd0f894.jpg",
+    "static/media/tuna.jpg": "/react-gh-pages/static/media/tuna.da6f9215372d5d0a7d14.jpg",
+    "static/media/lapsha.jpg": "/react-gh-pages/static/media/lapsha.345200cce2ce6fd264d8.jpg",
+    "static/media/rest1.jpg": "/react-gh-pages/static/media/rest1.f468a78d112a039ada37.jpg",
+    "static/media/shpinatom.jpg": "/react-gh-pages/static/media/shpinatom.c634d3ece31f87596597.jpg",
+    "static/media/greek.jpg": "/react-gh-pages/static/media/greek.51b6c4c33434a3c99eef.jpg",
+    "static/media/soupTikva.jpeg": "/react-gh-pages/static/media/soupTikva.694f43f4573bd118c538.jpeg",
+    "static/media/beet.jpg": "/react-gh-pages/static/media/beet.5b5b39f2a2911a564e2d.jpg",
+    "static/media/ministrone.jpg": "/react-gh-pages/static/media/ministrone.d713b3e8c08b32cc6b25.jpg",
+    "static/media/tomatniy.jpeg": "/react-gh-pages/static/media/tomatniy.f297c1f4d6fef2b5c5fb.jpeg",
+    "static/media/rest2.jpeg": "/react-gh-pages/static/media/rest2.e11ee431e9052356fc94.jpeg",
+    "static/media/karbonara.jpg": "/react-gh-pages/static/media/karbonara.87e45c6213c8edde3114.jpg",
+    "static/media/rest3.jpg": "/react-gh-pages/static/media/rest3.87e45c6213c8edde3114.jpg",
+    "static/media/gribami.jpeg": "/react-gh-pages/static/media/gribami.16006c07b019fd2bac98.jpeg",
+    "static/media/pesto.jpg": "/react-gh-pages/static/media/pesto.ff45fcb68014054524d3.jpg",
+    "static/media/caprese.jpeg": "/react-gh-pages/static/media/caprese.4e927742b6efdee70685.jpeg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b17fb511.css.map": "/react-gh-pages/static/css/main.b17fb511.css.map",
+    "main.cda66062.js.map": "/react-gh-pages/static/js/main.cda66062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b17fb511.css",
+    "static/js/main.cda66062.js"
+  ]
+}

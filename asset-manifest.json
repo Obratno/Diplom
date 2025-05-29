@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Diplom/static/css/main.cfa2f9db.css",
+    "main.css": "/Diplom/static/css/main.a3e1cb6b.css",
     "main.js": "/Diplom/static/js/main.d9690791.js",
     "static/media/gribnoi.jpg": "/Diplom/static/media/gribnoi.92e5ecafb098448f8b1b.jpg",
     "static/media/boloniese.jpg": "/Diplom/static/media/boloniese.b160535f5d5aec92553f.jpg",
@@ -21,11 +21,11 @@
     "static/media/pesto.jpg": "/Diplom/static/media/pesto.ff45fcb68014054524d3.jpg",
     "static/media/caprese.jpeg": "/Diplom/static/media/caprese.4e927742b6efdee70685.jpeg",
     "index.html": "/Diplom/index.html",
-    "main.cfa2f9db.css.map": "/Diplom/static/css/main.cfa2f9db.css.map",
+    "main.a3e1cb6b.css.map": "/Diplom/static/css/main.a3e1cb6b.css.map",
     "main.d9690791.js.map": "/Diplom/static/js/main.d9690791.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfa2f9db.css",
+    "static/css/main.a3e1cb6b.css",
     "static/js/main.d9690791.js"
   ]
 }

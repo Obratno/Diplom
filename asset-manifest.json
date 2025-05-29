@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Diplom/static/css/main.31cbdd9e.css",
-    "main.js": "/Diplom/static/js/main.fda19f71.js",
+    "main.css": "/Diplom/static/css/main.35b68e50.css",
+    "main.js": "/Diplom/static/js/main.c4678aa6.js",
     "static/media/gribnoi.jpg": "/Diplom/static/media/gribnoi.92e5ecafb098448f8b1b.jpg",
     "static/media/boloniese.jpg": "/Diplom/static/media/boloniese.b160535f5d5aec92553f.jpg",
     "static/media/back.jpg": "/Diplom/static/media/back.82561904b3d21fd0f894.jpg",
@@ -21,11 +21,11 @@
     "static/media/pesto.jpg": "/Diplom/static/media/pesto.ff45fcb68014054524d3.jpg",
     "static/media/caprese.jpeg": "/Diplom/static/media/caprese.4e927742b6efdee70685.jpeg",
     "index.html": "/Diplom/index.html",
-    "main.31cbdd9e.css.map": "/Diplom/static/css/main.31cbdd9e.css.map",
-    "main.fda19f71.js.map": "/Diplom/static/js/main.fda19f71.js.map"
+    "main.35b68e50.css.map": "/Diplom/static/css/main.35b68e50.css.map",
+    "main.c4678aa6.js.map": "/Diplom/static/js/main.c4678aa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.31cbdd9e.css",
-    "static/js/main.fda19f71.js"
+    "static/css/main.35b68e50.css",
+    "static/js/main.c4678aa6.js"
   ]
 }
